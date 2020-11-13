@@ -15,15 +15,8 @@ About:
 
 <hr/>
 
-Stuff you can do:
+#If you like:
 
 <ul>
-<li>Watch everything at the live-<strong>preview</strong> page: <a href="http://eladkarako.com/whatsapp-emoji/">eladkarako.com/whatsapp-emoji/</a></li>
-<li><a href="https://github.com/eladkarako/whatsapp-emoji/archive/master.zip">Download the entire thing</a> (~10MB)</li>
-<li><a href="https://github.com/eladkarako/partial-download-github-repository">How To Download A Single Folder?</a></li>
-<li>Gather it all yourself (developers): Download latest APK from <a href="https://www.apkmirror.com/apk/whatsapp-inc/">apkmirror.com/apk/whatsapp-inc</a>,
-extract the content (<a href="https://github.com/eladkarako/mods/tree/master/7z">7zip</a>) and see <code>/res/drawable-nodpi-v4/</code>, <code>/assets/graphics/</code>,
-<code>/res/drawable-hdpi-v4/</code>, <code>/res/drawable-xhdpi-v4/</code>, <code>/res/drawable-xxhdpi-v4</code> and <code>/res/drawable-xxxhdpi-v4/</code> for the image files.
-</li>
-<li>Donate: <a href="https://paypal.me/e1adkarak0" ok><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal Donation" ok></a></li>
+<li>Donate: <a href="https://paypal.me/yaseen59" ok><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal Donation" ok></a></li>
 </ul>
